@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1,kapppa,set,modelo
+0,1.0,1.0,1.0,1.0,1.0,test,Regresión logistica
+1,1.0,1.0,1.0,1.0,1.0,train,Regresión logistica
+0,1.0,1.0,1.0,1.0,1.0,test,Regresión logistica Esta
+1,1.0,1.0,1.0,1.0,1.0,train,Regresión logistica Esta
